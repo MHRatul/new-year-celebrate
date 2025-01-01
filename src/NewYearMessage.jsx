@@ -10,8 +10,8 @@ const NewYearMessage = () => {
           <div className="w-16 h-16 mx-auto">
             {/* Replace with your confetti image */}
             <img
-              src="https://cdn-icons-png.flaticon.com/512/198/198419.png"
-              alt="Confetti"
+              src="https://cdn-icons-png.flaticon.com/128/2278/2278992.png"
+              alt="Confett"
               className="w-full h-full"
             />
           </div>
@@ -35,8 +35,8 @@ const NewYearMessage = () => {
         {/* Box 3 */}
         <div className="flex flex-col items-center justify-center bg-gray-900 border border-white rounded-lg p-6">
           <p className="text-center text-lg">
-            Because, <br />
-            <span className="font-bold text-xl">I'm Muslim.♡</span>
+            Thanks <br />
+            <span className="font-bold text-3xl">for being a Muslim.♡</span>
           </p>
           <div className="mt-4">
             {/* Replace with your prayer image */}
