@@ -13,7 +13,7 @@ const NewYearMessage = () => {
   };
 
   const handleMuslimClick = () => {
-    setMessage("You clicked 'I'm Muslim ♡'.");
+    setMessage("Thanks for clicking- 'I'm Muslim ❤️'.");
   };
 
   return (
@@ -25,7 +25,7 @@ const NewYearMessage = () => {
           <div className="w-16 h-16 mx-auto">
             {/* Replace with your confetti image */}
             <img
-              src="https://cdn-icons-png.flaticon.com/512/198/198419.png"
+              src="https://cdn-icons-png.flaticon.com/128/2278/2278992.png"
               alt="Confetti"
               className="w-full h-full"
             />
@@ -60,7 +60,7 @@ const NewYearMessage = () => {
         >
           <p className="text-center text-lg">
             Because, <br />
-            <span className="font-bold text-xl">I'm Muslim.♡</span>
+            <span className="font-bold text-xl">I'm Muslim.❤️</span>
           </p>
           <div className="mt-4">
             {/* Replace with your prayer image */}
